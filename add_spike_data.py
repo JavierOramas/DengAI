@@ -1,4 +1,5 @@
 import pandas as pd
+from pyearth import Earth
 
 df = pd.read_csv('sj_y.csv')
 
